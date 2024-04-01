@@ -1,0 +1,4 @@
+u«Zµìmþ™ZŠvÚ±î¸Flask
+gunicorn
+sqlalchemy
+pymysql
